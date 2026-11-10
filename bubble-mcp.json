@@ -1,0 +1,1 @@
+{"client_id":"https://raw.githubusercontent.com/windeljadepono-star/devin-cimd/main/bubble-mcp.json","client_name":"Devin Desktop","redirect_uris":["http://localhost:8765/callback"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
